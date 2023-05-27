@@ -7,9 +7,12 @@
 - 🌱 I’m currently learning **angular y laravel**
 
 - 💬 Ask me about my organizations:
-     * [PoccoProjects](https://github.com/PoccoProjects)
-     * [Silabuz-KimberlyPoccoProjects](https://github.com/Silabuz-KimberlyPoccoProjects)
-     
+
+     * [KimberlyPocco-Silabuz](https://github.com/KimberlyPocco-Silabuz)
+     * [KimberlyPocco-DigitalHouse](https://github.com/KimberlyPocco-DigitalHouse)
+     * [KimberlyPocco-ONE](https://github.com/KimberlyPocco-ONE)
+
+<br>
 
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
 
