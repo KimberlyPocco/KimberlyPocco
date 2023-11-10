@@ -6,12 +6,6 @@
 
 - 🌱 I’m currently learning **next js**
 
-- 💬 Ask me about my organizations:
-
-     * [KimberlyPocco-Silabuz](https://github.com/KimberlyPocco-Silabuz)
-     * [KimberlyPocco-DigitalHouse](https://github.com/KimberlyPocco-DigitalHouse)
-     * [KimberlyPocco-ONE](https://github.com/KimberlyPocco-ONE)
-
 <br>
 
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
