@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Selenium**
 
-<br>
-
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
 
-___
+<br>
+
+***
 
 
 <br>
