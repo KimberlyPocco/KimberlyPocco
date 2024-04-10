@@ -20,8 +20,6 @@
 <a href="https://discord.gg/WT6BZzCf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WT6BZzCf" height="30" width="40" /></a>
 </p>
 
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <br>
 
