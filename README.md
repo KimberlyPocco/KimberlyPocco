@@ -8,8 +8,6 @@
 
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
 
-<br>
-
 ***
 
 
