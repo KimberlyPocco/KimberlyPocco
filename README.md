@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Kimberly Pocco</h1>
 
 <h3 align="center">A passionate QA Tester</h3>
@@ -8,7 +9,9 @@
 
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
 
-***
+<br>
+
+<h1 ></h1>
 
 
 <br>
