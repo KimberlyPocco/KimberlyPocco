@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Selenium**
+- 🌱 I’m currently learning **SonarQube**
 
 - 📫 How to reach me _**kimberly.poccop@gmail.com**_
 
